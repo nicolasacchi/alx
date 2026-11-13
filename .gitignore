@@ -1,0 +1,32 @@
+/target
+
+# IDE
+.idea
+.vscode
+
+# Shell/system dotfiles
+.bash_profile
+.bashrc
+.profile
+.zprofile
+.zshrc
+.gitconfig
+.ripgreprc
+
+# Claude/MCP
+.claude
+.mcp.json
+
+# Git worktree artifacts
+HEAD
+objects
+refs
+hooks
+config
+
+# Submodules
+.gitmodules
+
+# coverage
+*.profraw
+*.profdata
