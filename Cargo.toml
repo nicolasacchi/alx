@@ -15,9 +15,9 @@ thiserror = "2"
 colored = "3"
 chrono = { version = "0.4", features = ["serde"] }
 regex = "1"
-sysinfo = "0.34"
+sysinfo = "0.40"
 clap_complete = "4"
-clap_mangen = "0.2"
+clap_mangen = "0.3"
 hickory-resolver = "0.26"
 
 [dev-dependencies]
